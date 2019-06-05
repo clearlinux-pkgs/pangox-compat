@@ -4,7 +4,7 @@
 #
 Name     : pangox-compat
 Version  : 0.0.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/GNOME/pangox-compat/archive/0.0.2.tar.gz
 Source0  : https://github.com/GNOME/pangox-compat/archive/0.0.2.tar.gz
 Summary  : X Window System font support for Pango
